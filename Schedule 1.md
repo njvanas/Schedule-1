@@ -6,7 +6,7 @@
 | Part | Contents |
 |------|----------|
 | [**1. Customers & dealers**](#1-customers--dealers) | Golden rules, tier list, area ranking, foolproof setup, checklist |
-| [**2. Efficiency & mega rich**](#2-efficiency--mega-rich) | Daily loop, progression, XP, money, properties, best recipe, profit by type, **best method per location + automation**, end-game, links |
+| [**2. Efficiency & mega rich**](#2-efficiency--mega-rich) | Daily loop, progression, XP, money, properties, best recipe, profit by type, best method per location, **full automation steps (every product, every stage)**, end-game, links |
 | [**3. Shrooms**](#3-shrooms-grow-to-best-possibility) | Unlock, equipment, manual growing, layout, automation, links |
 | [**Sources**](#sources) | References and version notes |
 
@@ -18,7 +18,7 @@
 [1.1 Golden rules](#11-golden-rules) · [1.2 Tier list](#12-tier-list) · [1.3 Area ranking](#13-area-ranking-profit-potential-top--bottom) · [1.4 Quick reference](#14-quick-reference--who-to-keep-for-yourself) · [1.5 Pro tips](#15-pro-tips-summary) · [1.6 Foolproof late-game setup](#16-foolproof-late-game-setup-all-customers-all-dealers) → [Full list per dealer](#full-list-per-npc-dealer-assign-exactly-these) · [Keep for self](#keep-for-self-your-personal-list-only) · [Checklist](#checklist-copy-into-game)
 
 **2. Efficiency & mega rich**  
-[2.1 Daily efficiency](#21-daily-efficiency--how-to-play-each-day) · [2.2 Progression path](#22-progression-path-early--mid--late--end-game) · [2.3 Rank / XP](#23-rank--xp--level-up-as-fast-as-possible) · [2.4 Money maximization](#24-money-maximization--get-mega-rich) · [2.5 Properties & laundering](#25-properties--money-laundering--order-and-end-game) · [2.6 Best recipe](#26-best-recipe-most-profitable-mix--end-game-cash) · [2.7 Best profit per product type](#27-best-profit-per-product-type-as-of-2026) → [Best method per location](#271-best-method-per-location-product--automation) · [2.8 End-game checklist](#28-end-game-scenarios--checklist-for-mega-rich) · [2.9 Quick links](#29-efficiency--end-game--quick-links)
+[2.1 Daily efficiency](#21-daily-efficiency--how-to-play-each-day) · [2.2 Progression path](#22-progression-path-early--mid--late--end-game) · [2.3 Rank / XP](#23-rank--xp--level-up-as-fast-as-possible) · [2.4 Money maximization](#24-money-maximization--get-mega-rich) · [2.5 Properties & laundering](#25-properties--money-laundering--order-and-end-game) · [2.6 Best recipe](#26-best-recipe-most-profitable-mix--end-game-cash) · [2.7 Best profit per product type](#27-best-profit-per-product-type-as-of-2026) → [Best method per location](#271-best-method-per-location-product--automation) · [Full automation steps (every product, every stage)](#272-full-automation-steps-every-product-every-stage) · [2.8 End-game checklist](#28-end-game-scenarios--checklist-for-mega-rich) · [2.9 Quick links](#29-efficiency--end-game--quick-links)
 
 **3. Shrooms**  
 [3.1 Unlock](#31-unlock-mushrooms) · [3.2 Equipment & supplies](#32-equipment-and-supplies-buy-list) · [3.3 Manual growing](#33-manual-growing-step-by-step-best-result) · [3.4 Best layout](#34-best-layout-for-growing-bungalow-or-bigger) · [3.5 Full automation](#35-full-automation-best-possibility) · [3.6 Supplies and yield](#36-supplies-and-yield) · [3.7 Quick checklist](#37-quick-checklist-best-possibility) · [3.8 External links](#38-external-links-further-reading)
@@ -487,7 +487,83 @@ Quick reference: which **product** to push in each **area**, **who** handles it 
 | **Barn** | Cocaine best recipe; optional Shroom farm | 10 employees; Suburbia; half cost of Warehouse; need a car |
 | **Docks Warehouse** | Cocaine best recipe **+** Shroom farm (full automation) | 10 employees; central; best for both lines — one property does everything |
 
-**Takeaway:** End-game: **Docks Warehouse** for cocaine + Shrooms on full automation; feed **Uptown** and **dealers** from there. **Bungalow** = dedicated Shroom (or Westville-focused) op. **Barn** = cheaper alternative to Warehouse if you prefer Suburbia.
+**What each location should be used as**
+
+| Location | Use it as | Notes |
+|----------|-----------|--------|
+| **Motel room** | Starter base only | $75 cash; 0 employees, 0 loading bays. Learn the ropes. Later: keep as **storage** or **dealer resupply** (dealer next door). |
+| **Sweatshop** (apartment above Fat Dragon) | First real operation; later satellite | $800 cash; 1 employee, 0 loading bays. Early: **~8 Grow Tents + Packaging Station**, small batches. Once you have Barn/Warehouse: **overflow** or **satellite** for extra product. |
+| **Bungalow** | First real expansion; Shroom farm or mixed op | $6k; 5 employees, 1 loading bay. Westville. **Shrooms** ([3.5](#35-full-automation-best-possibility)) + meth/cannabis; or dedicated Shroom farm. |
+| **Barn** | Main production (mid/late); cocaine + Shrooms | $25k; 10 employees, 2 loading bays. Suburbia. **Cocaine** best recipe ([2.6](#26-best-recipe-most-profitable-mix--end-game-cash)) + optional Shroom farm. Need a car. |
+| **Docks Warehouse** | Endgame main base; full automation | $50k; 10 employees, 2 loading bays. **Cocaine + Shroom farm** in one place; no sink (use Pot Sprinklers if growing plants here). Central, best for serious output. |
+| **Laundromat / Post Office / Car Wash / Taco Ticklers** | Laundering only | Not for production. Run daily to turn dirty cash into clean ([2.5](#25-properties--money-laundering--order-and-end-game)). |
+
+**Takeaway:** End-game: **Docks Warehouse** for cocaine + Shrooms on full automation; feed **Uptown** and **dealers** from there. **Bungalow** = dedicated Shroom (or Westville-focused) op. **Barn** = cheaper alternative to Warehouse if you prefer Suburbia. **Motel** and **Sweatshop** = early stepping stones; repurpose Sweatshop as satellite once you scale.
+
+<a id="272-full-automation-steps-every-product-every-stage"></a>
+#### Full automation steps for max profit (every product, every stage)
+
+Use this to run **max-profit automation** at **every point** in the game. At each location, set up the best product line your employee count allows, then scale up when you move.
+
+**Progression: max-profit product and automation by location**
+
+| Stage | Location | Employees | Max-profit product(s) to automate | What to run |
+|-------|----------|-----------|-----------------------------------|-------------|
+| **Early** | Motel | 0 | — | No automation. Manual small batches (cannabis or simple meth); learn the ropes. |
+| **First op** | Sweatshop | 1 | Meth or cannabis (single line) | **Meth:** 1 Chemist → 1–2 Chemistry Stations + 1 Lab Oven; clipboard: station → oven → storage; restock pseudo/acid/phosphorus (Shirley Watts) yourself. **Or** **cannabis:** 1 Botanist → Grow Tents; you trim and package. |
+| **Scale-up** | Bungalow | 5 | Shrooms (full) + meth or cannabis | **Shrooms:** [3.5 Full automation](#35-full-automation-best-possibility) (1 Botanist, 1 Handler, 1 Chemist). **Plus** meth line (1–2 Chemists) or cannabis (1 Botanist + Handler). Use 1 Cleaner optional. |
+| **Mid/late** | Barn | 10 | Cocaine best recipe + Shrooms | **Cocaine:** base line (Botanists → Cauldron → Lab Oven) + **best mix** (Mixing Stations, [2.6](#26-best-recipe-most-profitable-mix--end-game-cash)). **Shrooms:** scale 3.5 (more Beds, Drying Racks, Mixing Stations). See steps below. |
+| **Endgame** | Docks Warehouse | 10 | Cocaine best recipe + Shrooms | Same as Barn; central location, no sink (use Pot Sprinklers for any plants). One property = both lines at full automation. |
+
+---
+
+**Full automation steps by product (max profit)**
+
+**Cocaine (max profit ~$693/batch)** — for Barn or Warehouse (need Hustler III+ for Gas Mart ingredients).
+
+1. **Base cocaine line:** Plant pots (coca seeds) → **Cauldron** (gasoline + coca leaves) → **Lab Oven** → base cocaine.  
+   - **Staff:** 1+ **Botanist** — assign to pots; set **Destination** on pots = Cauldron or leaf storage rack. 1 **Chemist** — assign to Cauldron + Lab Oven (one Chemist can do both if single cauldron/oven).  
+   - **Clipboard:** Cauldron → **Destination** = Lab Oven. Lab Oven → **Destination** = storage rack or next step (Mixing).  
+   - **You:** Refill gasoline in Cauldron periodically.  
+2. **Best mix line (8 ingredients):** Base cocaine + Mega Bean, Horse Essence, Battery, Cuke, Gasoline, Paracetamol, Cuke, Motor Oil ([2.6](#26-best-recipe-most-profitable-mix--end-game-cash)).  
+   - **Gear:** **Mixing Station(s)** (chain for 8 ingredients or use Mk2), **Packaging Station**, **Storage Racks** for ingredients + Baggies + finished product.  
+   - **Staff:** 1 **Chemist** per Mixing Station (or 1 per up to 4 stations). 1–2 **Handlers** — routes: ingredient racks → Mixing Station(s); Baggies/product rack ↔ Packaging Station.  
+   - **Clipboard:** Set **recipe** on each Mixing Station (order matters). Mixing Station **Destination** = next Mixing Station or Packaging Station. Packaging Station **Destination** = product rack.  
+   - **You:** Restock ingredients from Gas Mart; Handlers move base cocaine and ingredients into the chain.
+
+**Meth (max profit ~$309–$340/batch)** — for Sweatshop (1 Chemist), Bungalow, Barn, or Warehouse.
+
+1. **Gear:** **Chemistry Station(s)** (3–4 for speed) + **Lab Oven(s)** (same count). Storage racks for Pseudo, Acid, Phosphorus (buy from Shirley Watts, Westville). **Packaging Station** or **Brick Press** for output; **Storage Rack** for finished product.  
+2. **Staff:** 1 **Chemist** per 4 Chemistry Stations; 1 **Chemist** per 4 Lab Ovens (or 1 Chemist for both if small setup). 1–2 **Handlers** — assign to Packaging Station; route oven output → Packaging → product rack.  
+3. **Clipboard:** On each **Chemistry Station**: set **recipe** = meth (Pseudo + Acid + Phosphorus); **Destination** = one of the Lab Ovens. On each **Lab Oven**: **Destination** = storage rack or Packaging Station.  
+4. **You:** Restock Pseudo, Acid, Phosphorus on Chemistry Stations when low (no loading bay at Sweatshop = you carry; Bungalow/Barn/Warehouse = use loading bay + racks).
+
+**Cannabis (max profit ~$132–$166/batch by strain)** — for Sweatshop (1 Botanist), Bungalow, Barn, or Warehouse.
+
+1. **Gear:** **Grow Tents** (Sweatshop ~8; more at Bungalow+). **Trimmers**, **Storage Rack** for trimmed bud. Optional: **Mixing Station** + **Packaging Station** for premium strains (e.g. Green Crack, OG Kush).  
+2. **Staff:** 1 **Botanist** — assign to Grow Tents; **Destination** = storage or Trim Station if available. 1 **Handler** for Packaging/Mixing if you use mixes.  
+3. **Clipboard:** Tent output → storage or Trim Station. If mixing: ingredient rack → Mixing Station; Mixing Station → Packaging → product rack.  
+4. **You:** Restock seeds/supplies; at Sweatshop you may need to trim and package yourself until you have a second employee.
+
+**Shrooms (max profit ~$94–$109/unit, ~$1,800/20)** — for Bungalow, Barn, or Warehouse (see [3.5 Full automation](#35-full-automation-best-possibility)).
+
+- **Minimum:** 1 Spawn Station, 1 Mushroom Bed, 1 Drying Rack (Heavenly), 1 Mixing Station, 1 Packaging Station; 1 Botanist, 1 Handler, 1 Chemist.  
+- **Clipboard:** Drying Rack → **Heavenly** → **Destination** = Mixing Station. Mixing Station → Packaging Station. Packaging Station → product rack.  
+- **Scale at Barn/Warehouse:** More Beds, 1 Drying Rack per Bed, more Mixing Stations (1 Chemist per station or up to 4), second Spawn Station; Handler feeds ingredients + Baggies.
+
+---
+
+**Per-location checklist (max results as you progress)**
+
+| Location | Equipment (max profit at that stage) | Staff | Clipboard / recipe |
+|----------|--------------------------------------|------|----------------------|
+| **Motel** | Grow Tents or 1 Chemistry Station + 1 Lab Oven (manual) | 0 | N/A — manual only |
+| **Sweatshop** | Meth: 1–2 Chemistry Stations + 1 Lab Oven. Or: 8 Grow Tents + Packaging | 1 Chemist or 1 Botanist | Meth: Station → Oven → storage. Cannabis: Tents → you trim/package |
+| **Bungalow** | Shrooms: Spawn + Beds + Drying + Mixing + Packaging. Optional: Meth or cannabis line | 1 Botanist + 1 Handler + 1 Chemist (Shrooms); +1–2 for meth/cannabis | Shrooms per 3.5; Meth/Cannabis per steps above |
+| **Barn** | Cocaine: Pots + Cauldron + Lab Oven + Mixing chain (8 ingredients) + Packaging. Shrooms: scaled 3.5 | 4 Botanists + 2 Chemists (cocaine); 1 Botanist + 1 Handler + 1 Chemist (Shrooms); 2 Handlers, 1–2 Cleaners | Cocaine: Cauldron→Oven→Mixing→Packaging. Shrooms: Drying→Mixing→Packaging |
+| **Docks Warehouse** | Same as Barn (cocaine + Shrooms); Pot Sprinklers if growing plants (no sink) | Same as Barn | Same as Barn |
+
+**References:** [Automate drug production (The Gamer)](https://thegamer.com/schedule-1-automate-cooking-hire-people-meth-cocaine) · [Automate all properties (Destructoid)](https://destructoid.com/best-way-to-automate-all-properties-in-schedule-1-game) · [3.5 Full automation (Shrooms)](#35-full-automation-best-possibility) · [2.6 Best recipe](#26-best-recipe-most-profitable-mix--end-game-cash)
 
 ---
 
