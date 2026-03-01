@@ -6,7 +6,7 @@
 | Part | Contents |
 |------|----------|
 | [**1. Customers & dealers**](#1-customers--dealers) | Golden rules, tier list, area ranking, foolproof setup, checklist |
-| [**2. Efficiency & mega rich**](#2-efficiency--mega-rich) | Daily loop, progression, XP, money, properties, best recipe, profit by type, end-game, links |
+| [**2. Efficiency & mega rich**](#2-efficiency--mega-rich) | Daily loop, progression, XP, money, properties, best recipe, profit by type, **best method per location + automation**, end-game, links |
 | [**3. Shrooms**](#3-shrooms-grow-to-best-possibility) | Unlock, equipment, manual growing, layout, automation, links |
 | [**Sources**](#sources) | References and version notes |
 
@@ -18,7 +18,7 @@
 [1.1 Golden rules](#11-golden-rules) · [1.2 Tier list](#12-tier-list) · [1.3 Area ranking](#13-area-ranking-profit-potential-top--bottom) · [1.4 Quick reference](#14-quick-reference--who-to-keep-for-yourself) · [1.5 Pro tips](#15-pro-tips-summary) · [1.6 Foolproof late-game setup](#16-foolproof-late-game-setup-all-customers-all-dealers) → [Full list per dealer](#full-list-per-npc-dealer-assign-exactly-these) · [Keep for self](#keep-for-self-your-personal-list-only) · [Checklist](#checklist-copy-into-game)
 
 **2. Efficiency & mega rich**  
-[2.1 Daily efficiency](#21-daily-efficiency--how-to-play-each-day) · [2.2 Progression path](#22-progression-path-early--mid--late--end-game) · [2.3 Rank / XP](#23-rank--xp--level-up-as-fast-as-possible) · [2.4 Money maximization](#24-money-maximization--get-mega-rich) · [2.5 Properties & laundering](#25-properties--money-laundering--order-and-end-game) · [2.6 Best recipe](#26-best-recipe-most-profitable-mix--end-game-cash) · [2.7 Best profit per product type](#27-best-profit-per-product-type-as-of-2026) · [2.8 End-game checklist](#28-end-game-scenarios--checklist-for-mega-rich) · [2.9 Quick links](#29-efficiency--end-game--quick-links)
+[2.1 Daily efficiency](#21-daily-efficiency--how-to-play-each-day) · [2.2 Progression path](#22-progression-path-early--mid--late--end-game) · [2.3 Rank / XP](#23-rank--xp--level-up-as-fast-as-possible) · [2.4 Money maximization](#24-money-maximization--get-mega-rich) · [2.5 Properties & laundering](#25-properties--money-laundering--order-and-end-game) · [2.6 Best recipe](#26-best-recipe-most-profitable-mix--end-game-cash) · [2.7 Best profit per product type](#27-best-profit-per-product-type-as-of-2026) → [Best method per location](#271-best-method-per-location-product--automation) · [2.8 End-game checklist](#28-end-game-scenarios--checklist-for-mega-rich) · [2.9 Quick links](#29-efficiency--end-game--quick-links)
 
 **3. Shrooms**  
 [3.1 Unlock](#31-unlock-mushrooms) · [3.2 Equipment & supplies](#32-equipment-and-supplies-buy-list) · [3.3 Manual growing](#33-manual-growing-step-by-step-best-result) · [3.4 Best layout](#34-best-layout-for-growing-bungalow-or-bigger) · [3.5 Full automation](#35-full-automation-best-possibility) · [3.6 Supplies and yield](#36-supplies-and-yield) · [3.7 Quick checklist](#37-quick-checklist-best-possibility) · [3.8 External links](#38-external-links-further-reading)
@@ -462,6 +462,32 @@ Rough **profit per batch** (or per stack/unit where noted) by product type so yo
 **Takeaway:** For **max profit**, prioritize **cocaine** mixes (Hustler III+), then **meth**, then **Shroom mixes** (if you have the farm), then premium **cannabis** strains. Early game: cannabis and simple meth; late game: cocaine best recipe + Shroom side line.
 
 **References:** [Best Recipe (Game Rant)](https://gamerant.com/schedule-1-best-recipe-high-value-mix-most-profit) · [Easy Money Shroom Mixes (Gamer Hour)](https://gamerhour.net/guides/schedule-1-easy-money-shroom-mixes/) · [Make Money Fast with Shrooms (Screen Hype)](https://www.screenhype.co.uk/how-to-make-money-fast-with-shrooms-in-schedule-1-shrooms-update/) · [Schedule 1 Calculator](https://schedule-1-calculator.com/) · [Best Shroom Mixes (Destructoid)](https://www.destructoid.com/best-shroom-mixes-in-schedule-1-for-highest-profits/)
+
+<a id="271-best-method-per-location-product--automation"></a>
+#### Best method per location (product + automation)
+
+Quick reference: which **product** to push in each **area**, **who** handles it (you vs dealer), and **where** to run **automation** (which property for which product).
+
+**By area (customers & product)**
+
+| Area | Best product to sell | Method (you vs dealer) | Notes |
+|------|----------------------|------------------------|--------|
+| **Uptown** | Cocaine best recipe ([2.6](#26-best-recipe-most-profitable-mix--end-game-cash)); Shroom mixes for whales | **You** — counter-offer every $12k whale; never give whales to Leo | Supply from Warehouse or Barn automation |
+| **Downtown** | High-multiplier mixes (Shrinking, Electrifying); cocaine | **You:** Mrs. Ming, Chloe; **Brad:** rest (low-value) | Barn or Warehouse supplies |
+| **The Docks** | Cocaine, meth; Shrooms if farm at Warehouse | **Jane:** most; **you:** optional 1–2 high-value | Docks Warehouse = best for full automation (cocaine + Shroom farm) |
+| **Northtown** | Cocaine, meth; cannabis early game | **Benji:** most; **you:** Jessi, Geraldine (optional: Kyle, Peter) | Supply from Barn or Warehouse |
+| **Westville** | Meth, cannabis; Shrooms if you have Bungalow | **Molly:** most; **you:** George Greene (optionally Dean Webster) | Bungalow: Shrooms + meth/cannabis automation |
+| **Suburbia** | Meth, cannabis; cocaine once cartel is low | **Wei:** all once safe; don’t give high-value until cartel down | Barn (Suburbia) can run cocaine + Shrooms |
+
+**By property (automation — what to run where)**
+
+| Property | Best product to automate | Why |
+|----------|---------------------------|-----|
+| **Bungalow** | Shrooms ([3.5 Full automation](#35-full-automation-best-possibility)); meth or cannabis | 5 employees; Westville; good for Shroom farm only or small mixed op |
+| **Barn** | Cocaine best recipe; optional Shroom farm | 10 employees; Suburbia; half cost of Warehouse; need a car |
+| **Docks Warehouse** | Cocaine best recipe **+** Shroom farm (full automation) | 10 employees; central; best for both lines — one property does everything |
+
+**Takeaway:** End-game: **Docks Warehouse** for cocaine + Shrooms on full automation; feed **Uptown** and **dealers** from there. **Bungalow** = dedicated Shroom (or Westville-focused) op. **Barn** = cheaper alternative to Warehouse if you prefer Suburbia.
 
 ---
 
